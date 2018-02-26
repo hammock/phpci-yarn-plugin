@@ -1,0 +1,24 @@
+{
+  "name": "hammock/yarn-phpci-plugin",
+  "description": "PHPCI plugin for yarn integration",
+  "keywords": ["phpci", "plugin", "yarn"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Ivanov",
+      "email": "hammock@tut.by"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "require-dev": {
+    "block8/phpci": "1.6.x"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hammock\\PHPCI\\": "src/"
+    }
+  }
+}
