@@ -1,12 +1,12 @@
 {
-  "name": "hammock/yarn-phpci-plugin",
+  "name": "hammock/phpci-yarn-plugin",
   "description": "PHPCI plugin for yarn integration",
   "keywords": ["phpci", "plugin", "yarn"],
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Oleksandr Ivanov",
+      "name": "Aleksandr Ivanov",
       "email": "hammock@tut.by"
     }
   ],
